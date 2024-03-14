@@ -1,0 +1,6 @@
+Get 2 cards 
+If the value of your cards are 11 then 
+Go for double hit
+
+Else if the dealer has 10 and below value of cards then
+Go for stand
